@@ -11,7 +11,7 @@ builder.Services.AddDbContext<DatabaseContext>(option =>
 {
     option.UseSqlServer(builder.Configuration.GetConnectionString("Product"));
 });
-/*builder.Services.AddIdentity<IdentityUser,IdentityRole>().AddEntityFrameworkStores<DatabaseContext>();*/
+
 builder.Services.AddSingleton<IHttpContextAccessor, HttpContextAccessor>();
 builder.Services.AddScoped<IAccountRepository,AccountRepository>();
 builder.Services.AddScoped<IProductRepository,ProductRepository>();
