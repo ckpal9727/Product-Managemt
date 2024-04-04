@@ -1,0 +1,88 @@
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\appsettings.Development.json
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\appsettings.json
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Product CRUD.staticwebassets.runtime.json
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Product CRUD.exe
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Product CRUD.deps.json
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Product CRUD.runtimeconfig.json
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Product CRUD.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Product CRUD.pdb
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Azure.Core.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Azure.Identity.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Humanizer.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\Mono.TextTemplating.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.CodeDom.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.Drawing.Common.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.Memory.Data.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.Runtime.Caching.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.Security.Permissions.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.Text.Json.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\System.Windows.Extensions.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.csproj.AssemblyReference.cache
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.AssemblyInfoInputs.cache
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.AssemblyInfo.cs
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.csproj.CoreCompileInputs.cache
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.MvcApplicationPartsAssemblyInfo.cache
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.RazorAssemblyInfo.cache
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.RazorAssemblyInfo.cs
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\staticwebassets\msbuild.Product CRUD.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\staticwebassets\msbuild.build.Product CRUD.props
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Product CRUD.props
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Product CRUD.props
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\staticwebassets.pack.json
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\staticwebassets.build.json
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\staticwebassets.development.json
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\scopedcss\bundle\Product CRUD.styles.css
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\scopedcss\projectbundle\Product CRUD.bundle.scp.css
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.csproj.CopyComplete
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\refint\Product CRUD.dll
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.pdb
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\Product CRUD.genruntimeconfig.cache
+D:\Tech Basket\Tech Basket 1\Product CRUD\Product CRUD\obj\Debug\net6.0\ref\Product CRUD.dll
